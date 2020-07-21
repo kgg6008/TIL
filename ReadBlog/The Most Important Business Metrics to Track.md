@@ -4,7 +4,7 @@
 
 > To understand this blog i will write Korean.  
 > If want to read by English than you can show in above link.  
-> 한국어로 변환에 오류가 이을 수도 있음.
+> 한국어로 변환에 오류가 있을 수도 있음.
 
 ## What are business metics?
 비즈니스 지표는 비즈니스의 구성요소를 정량화 또는 수량화 할 수 있는 척도이다. 
